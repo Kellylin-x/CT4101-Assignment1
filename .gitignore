@@ -5,3 +5,4 @@ __pycache__/
 *.log
 *.tmp
 anaconda_projects/
+.virtual_documents/
